@@ -15,6 +15,9 @@ This project is intended to demonstrate proficiency with working with text data,
 This project was inspired by the SMS Spam Collection dataset from the UC Irvine Machine Learning Repository. The dataset claims to be the largest collection of real, unencoded SMS messages available. The dataset and a more in depth description can be accessed here:
 https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 
+The original paper published with the dataset discusses the creation of the dataset, some of the characteristics of the dataset, and some of the benchmark models that were created for predicting whether an SMS message is spam or ham. The paper can be accessed here:
+https://dl.acm.org/doi/pdf/10.1145/2034691.2034742
+
 ## Running the project
 
 To run the project, clone the repo into your workspace:
