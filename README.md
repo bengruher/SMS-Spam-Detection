@@ -26,3 +26,6 @@ git clone https://github.com/bengruher/SMS-Spam-Detection
 ```
 
 and open the sms-spam-detection.ipynb Jupyter notebook. Press Shift-Enter to run each cell. Note that your execution times may vary. The notebook was originally run on an ml.t2.medium EC2 instance from AWS. 
+
+
+Tags: NLP, spam detection, unstructured data
