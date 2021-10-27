@@ -2,7 +2,11 @@
 
 ## About
 
+In recent years, we have all started to receive multiple spam messages every single day, whether they come through as phone calls, emails, or texts. The cost to send a text or make a phone call has decreased drastically in the past decade and it is now free in most cases to send a text, email, or make a phone call within the United States. Unfortunately, this has enabled spammers to send millions of spam messages or make millions of spam calls every single day.
+
 Spam filtering using machine learning has become common among email providers. However, spam filtering of SMS text messages has not been widely implemented. A big reason for SMS to be lagging behind email in terms of spam filtering is the lack of a large, quality SMS text dataset. This dataset from UCI (see below) combines multiple different datasets together to provide an industry-leading SMS spam vs ham dataset. 
+
+One of the most important aspects of spam filtering is preventing legitimate messages from being blocked (false positive). Even a single legitimate call or message getting blocked may be seen as unacceptable. As a result, we will need to focus on preventing false positives while trying to flag as many spam messages as possible.
 
 This project is intended to demonstrate proficiency with working with text data, NLP techniques, and creating highly tuned models. 
 
